@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Age Calculator</h1>
+        <form id="ageForm" onsubmit="return false;">
+            <label id="dobLabel" for="dateOfBirth">Enter/Select Date of Birth</label>
+            <input type="date" id="dateOfBirth" required aria-labelledby="dobLabel">
+            <div class="buttons">
+                <button type="button" onclick="calculateAge()">Calculate Age</button>
+                <button type="button" onclick="resetForm()">Clear</button>
+            </div>
+        </form>
+        <div class="result" id="result" role="status" aria-live="assertive"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
