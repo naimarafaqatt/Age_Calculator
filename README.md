@@ -1,4 +1,4 @@
-﻿## Age_Calculator
+## Age_Calculator
 Welcome to Age Calculator, a web-based application to calculate your age based on your date of birth. This application provides a simple and intuitive interface for users to input their birthdate and get their age in years, months, and days.
 
 ## Features
@@ -28,4 +28,4 @@ Welcome to Age Calculator, a web-based application to calculate your age based o
 - Google Fonts: Imported 'Montserrat' font for consistent typography.
 
 ## GitHub Repo
--- **https://github.com/naimarafaqatt/Age_Calculator**
+   - **https://github.com/naimarafaqatt/Age_Calculator**
