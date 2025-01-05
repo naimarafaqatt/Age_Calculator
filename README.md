@@ -27,5 +27,5 @@ Welcome to Age Calculator, a web-based application to calculate your age based o
 - JavaScript: Age calculation logic and form validation.
 - Google Fonts: Imported 'Montserrat' font for consistent typography.
 
-## Installation
-No installation required. Simply open the `index.html` file in your web browser to use the Age Calculator.
+## GitHub Repo
+-- **https://github.com/naimarafaqatt/Age_Calculator**
